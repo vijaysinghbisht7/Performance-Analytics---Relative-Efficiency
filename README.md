@@ -1,1 +1,3 @@
 # Performance-Analytics---Relative-Efficiency
+The objective of this research is to create adequate suitable models for computing and analysing Premiership Footballers' performance relative efficiency as well as the nature of their returns to scale. There are two ways to analyse the relative efficiency: Parametric and Non Parametric. The parametric analysis is done using the econometrics software STATA17 and Non Parametric analysis to be done using PIM-DEA.
+The data that we have provided with is for Footballers playing for different clubs in the Premier league for season 2021-2022. The data includes various information regarding players information and performance in the league.
